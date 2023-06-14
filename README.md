@@ -23,6 +23,6 @@ Bons estudos 😉
 
 ## Links úteis
 
-[Build and release an Android app](https://docs.flutter.dev/deployment/android)
-[Build and release an iOS app](https://docs.flutter.dev/deployment/ios)
-[Firebase App Distribution](https://firebase.google.com/docs/app-distribution)
+- [Build and release an Android app](https://docs.flutter.dev/deployment/android)
+- [Build and release an iOS app](https://docs.flutter.dev/deployment/ios)
+- [Firebase App Distribution](https://firebase.google.com/docs/app-distribution)
